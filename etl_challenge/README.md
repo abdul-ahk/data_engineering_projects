@@ -2,7 +2,7 @@
 
 ### What is this project about?
 
-*ETL Challenge: To extract data from https-endpoints and transforming it to be GDPR compliant by removing PII's, then further designing a database based on the analysis requirements and finally transform then load data into database for further analysis.
+ETL Challenge: To extract data from https-endpoints and transforming it to be GDPR compliant by removing PII's, then further designing a database based on the analysis requirements and finally transform then load data into database for further analysis.
 
 ### How do I run it?
 
