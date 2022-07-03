@@ -1,0 +1,158 @@
+[
+    {
+        "createdAt": "2021-11-23T16:10:33.614Z",
+        "updatedAt": "2021-11-24T13:34:15.404Z",
+        "city": "Pembroke Pines",
+        "country": "United States",
+        "zipCode": "05734",
+        "email": "hotmail.com",
+        "birthDate": "2020-12-16T02:41:21.036Z",
+        "profile": {
+            "gender": "male",
+            "isSmoking": true,
+            "profession": "Central Configuration Planner",
+            "income": "3709.61"
+        },
+        "subscription": [
+            {
+                "createdAt": "2021-11-24T16:58:46.581Z",
+                "startDate": "2021-11-24T05:12:49.301Z",
+                "endDate": "2022-09-15T06:05:59.630Z",
+                "status": "Active",
+                "amount": "43.18"
+            }
+        ],
+        "id": "1"
+    },
+    {
+        "createdAt": "2021-11-23T02:40:10.964Z",
+        "updatedAt": "2021-11-24T16:04:42.393Z",
+        "city": "Meganemouth",
+        "country": "Namibia",
+        "zipCode": "59236",
+        "email": "gmail.com",
+        "birthDate": "2021-10-08T12:12:49.168Z",
+        "profile": {
+            "gender": "male",
+            "isSmoking": true,
+            "profession": "Corporate Tactics Strategist",
+            "income": "1504.25"
+        },
+        "subscription": [
+            {
+                "createdAt": "2021-11-24T14:36:18.895Z",
+                "startDate": "2021-11-24T12:57:48.724Z",
+                "endDate": "2022-07-13T09:14:04.001Z",
+                "status": "Active",
+                "amount": "23.78"
+            }
+        ],
+        "id": "2"
+    },
+    {
+        "createdAt": "2021-11-23T06:26:53.843Z",
+        "updatedAt": "2021-11-24T06:37:01.117Z",
+        "city": "Port Cary",
+        "country": "Bulgaria",
+        "zipCode": "83202-2695",
+        "email": "gmail.com",
+        "birthDate": "2021-01-13T10:11:14.643Z",
+        "profile": {
+            "gender": "female",
+            "isSmoking": false,
+            "profession": "Senior Quality Manager",
+            "income": "3256.41"
+        },
+        "subscription": [
+            {
+                "createdAt": "2021-11-22T23:41:32.927Z",
+                "startDate": "2021-11-23T14:42:04.416Z",
+                "endDate": "2022-07-26T17:06:45.413Z",
+                "status": "Rejected",
+                "amount": "64.75"
+            },
+            {
+                "createdAt": "2021-11-23T18:57:20.540Z",
+                "startDate": "2021-11-24T18:04:41.908Z",
+                "endDate": "2022-03-03T09:47:26.916Z",
+                "status": "Active",
+                "amount": "88.60"
+            }
+        ],
+        "id": "3"
+    },
+    {
+        "createdAt": "2021-11-23T03:27:56.458Z",
+        "updatedAt": "2021-11-24T17:00:21.524Z",
+        "city": "South Christophe",
+        "country": "United States",
+        "zipCode": "70183",
+        "email": "gmail.com",
+        "birthDate": "2021-09-22T20:53:42.528Z",
+        "profile": {
+            "gender": "male",
+            "isSmoking": true,
+            "profession": "Internal Division Agent",
+            "income": "758.89"
+        },
+        "subscription": [
+            {
+                "createdAt": "2021-11-23T05:23:29.452Z",
+                "startDate": "2021-11-23T09:24:30.685Z",
+                "endDate": "2022-03-25T10:14:15.548Z",
+                "status": "Rejected",
+                "amount": "15.98"
+            },
+            {
+                "createdAt": "2021-11-24T02:07:08.482Z",
+                "startDate": "2021-11-24T12:47:33.246Z",
+                "endDate": "2021-12-10T20:22:36.132Z",
+                "status": "Inactive",
+                "amount": "3.51"
+            }
+        ],
+        "id": "4"
+    },
+    {
+        "createdAt": "2021-11-23T14:57:27.793Z",
+        "updatedAt": "2021-11-24T05:23:38.587Z",
+        "city": "East Darrionhaven",
+        "country": "Iceland",
+        "zipCode": "98347",
+        "email": "gmail.com",
+        "birthDate": "2021-07-23T02:31:51.232Z",
+        "profile": {
+            "gender": "female",
+            "isSmoking": false,
+            "profession": "Central Paradigm Agent",
+            "income": "2658.19"
+        },
+        "subscription": [
+            {
+                "createdAt": "2021-11-24T14:40:24.257Z",
+                "startDate": "2021-11-24T11:22:33.265Z",
+                "endDate": "2022-11-23T12:41:28.319Z",
+                "status": "Active",
+                "amount": "89.71"
+            }
+        ],
+        "id": "5"
+    },
+    {
+        "createdAt": "2021-11-22T19:14:23.721Z",
+        "updatedAt": "2021-11-24T02:56:07.833Z",
+        "city": null,
+        "country": "United States",
+        "zipCode": null,
+        "email": "yahoo.com",
+        "birthDate": "2021-09-29T06:05:18.013Z",
+        "profile": {
+            "gender": null,
+            "isSmoking": true,
+            "profession": "Customer Security Producer",
+            "income": null
+        },
+        "subscription": [],
+        "id": "6"
+    }
+]
