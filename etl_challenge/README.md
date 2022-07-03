@@ -2,11 +2,11 @@
 
 Steps necessary to get application up and running.
 
-### What is this repository for? ###
+### What is this project about?
 
-*Test ETL project, to extract data from https endpoints and load it into database after transformation to perform desired analysis
+*ETL Challenge: To extract data from https-endpoints and transforming it to be GDPR compliant by removing PII's, then further designing a database based on the analysis requirements and finally transform then load data into database for further analysis.
 
-### How do I get set up? ###
+### How do I get set up?
 
 * Oracle 18c Express Edition used as destination storage
 * requirement.txt file is provided to install all the dependencies required to run the application
